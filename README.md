@@ -4,6 +4,7 @@
 ## 3.大家需要下载代码后:Git clone https://github.com/LiuC520/React-Native-RnInAndroid
 ## 4.cd React-Native-RnInAndroid
 ## 5.安装react native: $ npm install --save react react-native
-## 6、然后就可以在android studio中进行编译运行了，有啥问题欢迎咨询哦：
+## 6.然后输入：$ react-native link
+## 7、然后就可以在android studio中进行编译运行了，有啥问题欢迎咨询哦：
 qq:674668211
 微信：674668211
