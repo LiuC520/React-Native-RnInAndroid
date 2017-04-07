@@ -11,4 +11,4 @@ qq:674668211
 微信：674668211
 
 
-#### 9、如果报错 SyntaxError:Strict mode does not allow function declaration in a lexically nested statement，需要修改下react-native的版本或者修改下其他的东西，具体可以参考 http://blog.csdn.net/u014255938/article/details/53575638 或者 https://github.com/facebook/react-native/issues/11389
+#### 9、如果报错 SyntaxError:Strict mode does not allow function declaration in a lexically nested statement，需要修改下react-native的版本为0.38.1 或者修改下其他的东西，具体可以参考 http://blog.csdn.net/u014255938/article/details/53575638 或者 https://github.com/facebook/react-native/issues/11389
